@@ -1,0 +1,21 @@
+A 0 0 0
+B 0 1 0
+C 1 0 0
+D 1 1 0
+E 0 0 1
+F 0 1 1
+G 1 0 1
+J 1 1 1
+
+A B
+A C
+A E
+B F
+B D 
+C D 
+C G
+E G
+E F
+J G
+J F
+J D 

@@ -6,13 +6,18 @@ void buffer_init(shape_t &shape)
     shape.edges = NULL;
 }
 
+void download_splitter(FILE *file)
+{
+    fscanf(file, "-----\n");
+}
+
 int download_buffer(shape_t &buffer, FILE *file)
 {
     int rc = download_list_point(&buffer.points, file);
 
     if (rc == OK)
     {
-        fscanf(file, "-----\n"); // обертка
+        download_splitter(file);
 
         rc = download_list_edge(&buffer.edges, file);
         if (rc != OK)
@@ -21,9 +26,9 @@ int download_buffer(shape_t &buffer, FILE *file)
 
     return rc;
 }
-int file_open(FILE *file, char *filename)
+int file_open(FILE **file, char *filename)
 {
-    FILE *file = fopen(filename, "r");
+    *file = fopen(filename, "r");
     if (!file)
         return ERR_FILE_NO;
     return OK;
@@ -32,7 +37,7 @@ int file_open(FILE *file, char *filename)
 int download_shape(shape_t &shape, char *filename)
 {
     FILE *file;
-    int rc = file_open(file, filename);
+    int rc = file_open(&file, filename);
 
     shape_t buffer;
     buffer_init(buffer);

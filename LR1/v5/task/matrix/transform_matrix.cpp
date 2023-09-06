@@ -47,44 +47,50 @@ int make_rotate_matrix(matrix_t &matrix, transform_settings_t settings, const do
 {
     matrix_t dop_matrix, ans;
     int rc = mem_make_single_matrix(dop_matrix, MATRIX_SIZE, MATRIX_SIZE);
-    sub_center(dop_matrix, center);
-
-    rc = fill_rotate(matrix, settings);
-    if (rc == OK)
-        add_center(matrix, center);
-
-    if (rc == OK)
-        rc = mem_multiplicate_matrix(ans, dop_matrix, matrix);
     if (rc == OK)
     {
-        mem_delete_matrix(matrix);
-        mem_copy_matrix(matrix, ans);
-    }
+        sub_center(dop_matrix, center);
 
-    mem_delete_matrix(dop_matrix);
+        rc = fill_rotate(matrix, settings);
+        if (rc == OK)
+        {
+            add_center(matrix, center);
+            rc = mem_multiplicate_matrix(ans, dop_matrix, matrix);
+
+            mem_delete_matrix(matrix);
+            if (rc == OK)
+            {
+                mem_copy_matrix(matrix, ans);
+            }
+        }
+
+        mem_delete_matrix(dop_matrix);
+    }
     return rc;
 }
 int make_scale_matrix(matrix_t &matrix, transform_settings_t settings, const dot_t &center)
 {
     matrix_t dop_matrix, ans;
     int rc = mem_make_single_matrix(dop_matrix, MATRIX_SIZE, MATRIX_SIZE);
-    if (rc != OK)
-        return rc;
-    sub_center(dop_matrix, center);
-    rc = fill_scale(matrix, settings);
-    if (rc == OK)
-        add_center(matrix, center);
-
-    if (rc == OK)
-        rc = mem_multiplicate_matrix(ans, dop_matrix, matrix);
     if (rc == OK)
     {
-        mem_delete_matrix(matrix);
-        mem_copy_matrix(matrix, ans);
+        sub_center(dop_matrix, center);
+        rc = fill_scale(matrix, settings);
+        if (rc == OK)
+        {
+            add_center(matrix, center);
+            rc = mem_multiplicate_matrix(ans, dop_matrix, matrix);
+
+            mem_delete_matrix(matrix);
+            
+            if (rc == OK)
+            {
+                mem_copy_matrix(matrix, ans);
+            }
+        }
+        
+        mem_delete_matrix(dop_matrix);
     }
-    
-    mem_delete_matrix(dop_matrix);
-    mem_copy_matrix(matrix, ans);
     return rc;
 }
 int make_transform_matrix(matrix_t &matrix, transform_settings_t settings, const dot_t &center)

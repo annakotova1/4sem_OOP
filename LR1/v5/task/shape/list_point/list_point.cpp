@@ -66,14 +66,24 @@ int delete_list_point(list_point_node_t **head)
     return OK;
 }
 
-int apply_for_each_point(list_point_node_t **head, int (*func)(point_t))
+int apply_for_each_point(list_point_node_t *head, int (*func)(point_t))
 {
     int rc = OK;
-    for (list_point_node_t *cur = *head; cur && (rc == OK); cur = cur->next)
+    for (list_point_node_t *cur = head; cur && (rc == OK); cur = cur->next)
         rc = func(cur->data);
     
     return rc;
 }
+
+int apply_for_each_point(list_point_node_t *head, const matrix_t matrix, int (*func)(point_t&, const matrix_t&))
+{
+    int rc = OK;
+    for (list_point_node_t *cur = head; cur && (rc == OK); cur = cur->next)
+        rc = func(cur->data, matrix);
+    
+    return rc;
+}
+
 
 int find_point_by_id(list_point_node_t *head, dot_t &result, const int &id)
 {
@@ -152,14 +162,17 @@ int download_list_point(list_point_node_t **head, FILE *file)
 
     if (rc == END_READ)
         rc = OK;
+    else 
+        delete_list_point(head);
     return rc;
 }
 
 int transform_list_point(list_point_node_t *head, const matrix_t &transform_matrix)
 {
     int rc = OK;
-    for (list_point_node_t *cur = head; cur && rc == OK; cur = cur->next)
-        rc = transform_point(cur->data, transform_matrix);
+    rc = apply_for_each_point(head, transform_matrix, transform_point);
+    //for (list_point_node_t *cur = head; cur && rc == OK; cur = cur->next)
+    //    rc = transform_point(cur->data, transform_matrix);
 
     return rc;
 }

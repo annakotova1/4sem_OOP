@@ -1,0 +1,1327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"filename\tabc"
+			],
+			[
+				"slot",
+				"slotScale\t(MyMainWindow.cpp)"
+			],
+			[
+				"DOW",
+				"DOWNLOADPOINTS_H\tabc"
+			],
+			[
+				"DOWN",
+				"DownloadPoints.hpp\t(DownloadPoints.cpp)"
+			],
+			[
+				"ERR",
+				"ERR_UNKNOWEN_COMMAND\t(TemplateInteraction.hpp)"
+			],
+			[
+				"MyVector",
+				"MyVectorCoordinates\tabc"
+			],
+			[
+				"QGraphics",
+				"QGraphicsItemGroup\tabc"
+			],
+			[
+				"QGRAPHICS",
+				"QGraphicsItemGroup\t(TemplateInteraction.hpp)"
+			],
+			[
+				"QG",
+				"QGraphicsItemGroup\tabc"
+			],
+			[
+				"setV",
+				"setViewPortReal\tabc"
+			],
+			[
+				"getRealCoordinate",
+				"getRealCoordinateRightDownConner\t(MyViewPort.cpp)"
+			],
+			[
+				"getReal",
+				"getRealCoordinateLeftUpConner\t(MyViewPort.cpp)"
+			],
+			[
+				"getScree",
+				"getScreenCoordinatesByReal\t(MyViewPort.cpp)"
+			],
+			[
+				"new",
+				"new_matrix\tabc"
+			],
+			[
+				"chan",
+				"changeMatrixCurrentState\t(MyGraphicsView.cpp)"
+			],
+			[
+				"myPicture",
+				"myPicture->myMatrixCurrentState\tabc"
+			],
+			[
+				"push_",
+				"push_back\tfunc"
+			],
+			[
+				"clear",
+				"clearNextActions\t(MyArhive.cpp)"
+			],
+			[
+				"write",
+				"writeAction\t(MyArhive.cpp)"
+			],
+			[
+				"transform",
+				"transform_y\tabc"
+			],
+			[
+				"scale",
+				"scale_y\t(mainwindow_ui.h)"
+			],
+			[
+				"rotate",
+				"rotate_angle\t(mainwindow_ui.h)"
+			],
+			[
+				"change",
+				"changeCenter\tabc"
+			],
+			[
+				"scree",
+				"screen_point\tabc"
+			],
+			[
+				"QMo",
+				"QMouseEvent\t(MyGraphicsView.cpp)"
+			],
+			[
+				"eye",
+				"eye_center\tabc"
+			],
+			[
+				"mouth",
+				"mouth_end\tabc"
+			],
+			[
+				"QGra",
+				"QGraphicsScene\tQt Classes"
+			],
+			[
+				"real",
+				"real_point1\tabc"
+			],
+			[
+				"sc",
+				"screen_point2\tabc"
+			],
+			[
+				"screen",
+				"screen_left_up\tabc"
+			],
+			[
+				"MyGraphicsView",
+				"MyGraphicsView.h\t(MyGraphicsView.cpp)"
+			],
+			[
+				"QGraphicsS",
+				"QGraphicsScene\tQt Classes"
+			],
+			[
+				"clea",
+				"cleanScene\tabc"
+			],
+			[
+				"point",
+				"point_b\tabc"
+			],
+			[
+				"my",
+				"myPicture\t(MyMainWindow.cpp)"
+			],
+			[
+				"draw",
+				"drawPicture\t(MyGraphicView.cpp)"
+			],
+			[
+				"get_",
+				"get_bisector_base\tabc"
+			],
+			[
+				"solve",
+				"solve_treag\tabc"
+			],
+			[
+				"col",
+				"columnCount\tabc"
+			],
+			[
+				"pop",
+				"pop_front\tfunc"
+			],
+			[
+				"MainWindow",
+				"MyMainWindow\tabc"
+			],
+			[
+				"beginI",
+				"beginInsertRows\tQt Functions"
+			],
+			[
+				"DOWNLOAD",
+				"I-QWebEngineDownloadItem\tQt Class Inst"
+			],
+			[
+				"M",
+				"MyPointsTableModel.h"
+			],
+			[
+				"add",
+				"addWidget\t(main_window v1.h)"
+			],
+			[
+				"ce",
+				"centralwidget\t(main_window v1.h)"
+			],
+			[
+				"get_a",
+				"get_angle_treag_by_points\tabc"
+			],
+			[
+				"get",
+				"get_height_base\tabc"
+			],
+			[
+				"make",
+				"make_one_work_array\tabc"
+			],
+			[
+				"DEBU",
+				"DEBUG2\tabc"
+			],
+			[
+				"li",
+				"line_array\tabc"
+			],
+			[
+				"max",
+				"max_reqout1\tabc"
+			],
+			[
+				"check_",
+				"check_new_figure\tabc"
+			],
+			[
+				"fi",
+				"figure\tabc"
+			],
+			[
+				"dra",
+				"drawing_object\tabc"
+			],
+			[
+				"cha",
+				"change_to_green_colour\t(help_classes.py)"
+			],
+			[
+				"bg",
+				"bg_passive\tabc"
+			],
+			[
+				"co",
+				"colour\tabc"
+			],
+			[
+				"MOUSE",
+				"MOUSEBUTTONDOWN\t(help_classes.py)"
+			],
+			[
+				"EM",
+				"EmptyClass\tabc"
+			],
+			[
+				"comm",
+				"command_down\tabc"
+			],
+			[
+				"new_",
+				"new_figure\tabc"
+			],
+			[
+				"chec",
+				"check_figure_to_do_static\tabc"
+			],
+			[
+				"right",
+				"right_rotate_form\tabc"
+			],
+			[
+				"coordinate",
+				"coordinates\tabc"
+			],
+			[
+				"make_",
+				"make_points_from_coordinates_and_form\tabc"
+			],
+			[
+				"figure",
+				"figure_width\tabc"
+			],
+			[
+				"output",
+				"output_data\tabc"
+			],
+			[
+				"sort",
+				"sorted_data\tabc"
+			],
+			[
+				"output_",
+				"output_tree_as_dot\tabc"
+			],
+			[
+				"on",
+				"one_test\tabc"
+			],
+			[
+				"create",
+				"create_array\t(connectivity.c)"
+			],
+			[
+				"calcula",
+				"calculate_edges\tabc"
+			],
+			[
+				"outp",
+				"output_stack\tabc"
+			],
+			[
+				"a",
+				"array_pop\tabc"
+			],
+			[
+				"element",
+				"elements\tabc"
+			],
+			[
+				"peak",
+				"peaks_array_t\tabc"
+			],
+			[
+				"stack",
+				"stack_t\tabc"
+			],
+			[
+				"delete",
+				"delete_stack\t(types_work.c)"
+			],
+			[
+				"CONN",
+				"CONNECT_FALSE\t(common.h)"
+			],
+			[
+				"calculate",
+				"calculate_peaks_count\tabc"
+			],
+			[
+				"dete",
+				"delete_graph\tabc"
+			],
+			[
+				"peaks_a",
+				"peaks_array_t\t(types_work.c)"
+			],
+			[
+				"peaks",
+				"peaks_array\t(common.h)"
+			],
+			[
+				"add_",
+				"add_peaks\tabc"
+			],
+			[
+				"m",
+				"max_peak_name\tabc"
+			],
+			[
+				"ERR_",
+				"ERR_WORK\tabc"
+			],
+			[
+				"out",
+				"output_graph\t(types_work.c)"
+			],
+			[
+				"edges_",
+				"edges_count\tabc"
+			],
+			[
+				"read_",
+				"read_file\t(read_file.c)"
+			],
+			[
+				"edges_ar",
+				"edges_array_t\t(types_work.c)"
+			],
+			[
+				"edges",
+				"edges_count\tabc"
+			],
+			[
+				"edge",
+				"edges\tabc"
+			],
+			[
+				"delete_",
+				"delete_edges_array\tabc"
+			],
+			[
+				"create_",
+				"create_edges_array\tabc"
+			],
+			[
+				"edges_arra",
+				"edges_array_t\tabc"
+			],
+			[
+				"memory",
+				"memory_work.h\t(Makefile)"
+			],
+			[
+				"FLAG_",
+				"FLAG_BLUE\tabc"
+			],
+			[
+				"F",
+				"FLAG_BLUE\t(common.h)"
+			],
+			[
+				"peak_",
+				"peak_name_t\tabc"
+			],
+			[
+				"FLAG",
+				"FLAG_BLACK\t(common.h)"
+			],
+			[
+				"name",
+				"name_end\tabc"
+			],
+			[
+				"pe",
+				"peaks\tabc"
+			],
+			[
+				"outpu",
+				"output_peak\tabc"
+			],
+			[
+				"mw_",
+				"mw_put_arr_from_matrix\t(matrix_work.c)"
+			],
+			[
+				"mw",
+				"mw_get_arr_from_matrix\t(matrix_work.c)"
+			],
+			[
+				"crea",
+				"create_array\t(matrix.h)"
+			],
+			[
+				"matrix",
+				"matrix.h\t(matrix.c)"
+			],
+			[
+				"MATRIX",
+				"MATRIX_WORK_H\tabc"
+			],
+			[
+				"test_s_",
+				"test_s_and_hx\tabc"
+			],
+			[
+				"com",
+				"compare_int\tabc"
+			],
+			[
+				"count",
+				"count_writing_symbols\tabc"
+			],
+			[
+				"test_all_",
+				"test_all_null\tabc"
+			],
+			[
+				"ou",
+				"output_int\tabc"
+			],
+			[
+				"test_val",
+				"test_val_null\tabc"
+			],
+			[
+				"delete_list",
+				"delete_list_without_elements\t(list_work.h)"
+			],
+			[
+				"dele",
+				"delete_list\t(list_work.h)"
+			],
+			[
+				"polinom_e",
+				"polinom_element_t\t(struct_work.h)"
+			],
+			[
+				"struct",
+				"struct_work.h\t(list_work.h)"
+			],
+			[
+				"added",
+				"added_number\tabc"
+			],
+			[
+				"ne",
+				"new_node\tabc"
+			],
+			[
+				"del",
+				"del_node\tabc"
+			],
+			[
+				"calculate_",
+				"calculate_derivative\t(calculate.c)"
+			],
+			[
+				"ouptu",
+				"output_list\t(list_work.c)"
+			],
+			[
+				"input",
+				"input_a\t(stdin_work.c)"
+			],
+			[
+				"poli",
+				"polinom_element_t\t(struct_work.c)"
+			],
+			[
+				"polinom",
+				"polinom_element_t\tabc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Mission/src/missionMain.cpp",
+			"settings":
+			{
+				"buffer_size": 775,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Mission/src/DownloadPoints.cpp",
+			"settings":
+			{
+				"buffer_size": 1075,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "D"
+			}
+		},
+		{
+			"file": "Mission/src/ListWork.cpp",
+			"settings":
+			{
+				"buffer_size": 30,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Interface/src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 335,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Mission/inc/ListWork.hpp",
+			"settings":
+			{
+				"buffer_size": 87,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Mission/src/MyVector.cpp",
+			"settings":
+			{
+				"buffer_size": 1177,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Mission/inc/DownloadPoints.hpp",
+			"settings":
+			{
+				"buffer_size": 191,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TemplateInteraction.hpp",
+			"settings":
+			{
+				"buffer_size": 1345,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Mission/inc/ShapePoint.hpp",
+			"settings":
+			{
+				"buffer_size": 51,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Mission/inc/MyVector.hpp",
+			"settings":
+			{
+				"buffer_size": 425,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:  dele",
+				"Package Control: Disable Package"
+			],
+			[
+				"MarkdownVie",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Toggle",
+				"Toggle Comment"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"new view i",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"new wie",
+				"File: New View into File"
+			],
+			[
+				"nv",
+				"SublimeGDB: Open Variables View"
+			],
+			[
+				"package control:insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install Package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Lint",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			],
+			[
+				"Pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Interface",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Interface/inc",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Interface/src",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Mission",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Mission/inc",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Mission/src"
+	],
+	"file_history":
+	[
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Mission/src/ShapePoint.cpp",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Makefile",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/v1.pro",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Interface/src/main.cpp",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Interface/inc/ui_mainwindow_ui.h",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Interface/src/MyMainWindow.cpp",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Interface/inc/MyGraphicsView.hpp",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Interface/inc/MyMainWindow.hpp",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Interface/inc/mainwindow_ui.ui",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Interface/src/MyGraphicsView.cpp",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Mission/inc/MyPoint.hpp",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Mission/src/main.cpp",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Interface/main.cpp",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Interface/MyMainWindow.cpp",
+		"/home/nastya/Desktop/University/4_semester/OOP/LR1/v1/Interface/MyGraphicsView.cpp",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/src/MyFish.cpp",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/src/MyCoordinateGrid.cpp",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/v2.pro",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/inc/MyGraphicsView.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/src/myCoordinateGrid.cpp",
+		"/usr/include/c++/9/bits/stl_vector.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/inc/MyMainWindow.h",
+		"/usr/include/c++/9/bits/atomic_base.h",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore/qatomic_cxx11.h",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore/qbasicatomic.h",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore/qrefcount.h",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore/qvector.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/inc/mainwindow_ui.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/inc/MyCoordinateGrid.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/inc/MyArhive.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/inc/MyFish.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/inc/MyViewPort.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/src/MyViewPort.cpp",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/src/MyArhive.cpp",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/src/MyMainWindow.cpp",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/v2.sublime-project",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/inc/MyMatrixWork.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/src/MyMatrixWork.cpp",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/src/main.cpp",
+		"/usr/include/c++/9/bits/move.h",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore/qlist.h",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore/qglobal.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/src/MyGraphicsView.cpp",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v2/v1.pro",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v1/v1.sublime-project",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v1/inc/MyMainWindow.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v1/inc/MyGraphicsView.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v1/inc/MyFish.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v1/inc/MyViewPort.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v1/inc/mainwindow_ui.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v1/src/MyFish.cpp",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v1/src/MyGraphicsView.cpp",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v1/inc/MyGraphicView.h",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v1/Makefile",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v1/v1.pro",
+		"/home/nastya/Desktop/University/4_semester/Computer_Graph/LR_2/v1/src/main.cpp",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgraphicsscene.h",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore/qrect.h",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/moc_MyGraphicView.cpp",
+		"/build/glibc-ZN95T4/glibc-2.31/math/w_acos_compat.c",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/lab.sublime-project",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/lab_1_v3.pro",
+		"/home/nastya/.config/sublime-text-3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/home/nastya/.config/sublime-text-3/Packages/User/Labs_build.sublime-build",
+		"/home/nastya/.config/sublime-text-3/Packages/User/qt.sublime-build",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/lab_1_v3",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/inc/my_functions.h",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/src/my_functions.cpp",
+		"/home/nastya/Desktop/University/4 semester/Computer_Graph/lab_1_v3/Makefile",
+		"/home/nastya/.config/sublime-text-3/Packages/User/SublimeGDB.sublime-settings",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1_v3/src/main.cpp",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1_v3/src/MyPoint.cpp",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1_v3/inc/MyPoint.h",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1_v3/Makefile",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1_v2/src/MyGraphicView.cpp",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1_v2/lab_1_v2.pro",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1/main_window v1.h",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1/lab_1.pro",
+		"/tmp/.fr-RwZSC2/barcode-recognizer/mainWindow.ui",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1/Makefile",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1/main_window v1.ui",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1/calculate.h",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1/calculate.cpp",
+		"/home/nastya/Рабочий стол/University/4 semester/Компьютерная графика/lab_1/Mymake",
+		"/home/nastya/Рабочий стол/My_files/Другие программы/Трунов тисд 5/io.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_06 v3/src/tree.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_07 v2/example.dot",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_07 v2/1.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_07 v2/src/types_work.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_07 v2/inc/types_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_07 v2/src/list_work.c",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_07 v2/inc/list_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/TSD/LR_07 v1/src/memory_work.c",
+		"/home/nastya/Рабочий стол/Rk 1 Cprog v2/test6.txt",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_09_2_1/func_tests/readme.txt",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_09_2_1/func_tests/file_11.txt",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_11_01_01/unit_tests/check_main.c",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_12_3_2/graphic_view.py",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_11_01_01/Makefile",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_12_3_2/lab_python_part.py",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_10_1_1/Makefile",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_10_1_1/unit_tests/check_sort_insert.c",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_10_1_1/inc/list_work.h",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_10_1_1/src/list_work.c",
+		"/home/nastya/Рабочий стол/University/Защиты/lab_10_1_1/unit_tests/check_sort.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/func_tests/file_1.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/func_tests/file_2.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/func_tests/file_3.txt",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/src/main.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/inc/common.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/inc/list_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/src/list_work.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/src/file_work.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/LR_10/task 1/func_tests/file_4.txt",
+		"/home/nastya/Рабочий стол/My_files/Другие программы/Прога Дани/lab_12_03_01/libarrfilter/makefile",
+		"/home/nastya/Рабочий стол/My_files/Другие программы/Прога Дани/lab_12_03_01/libarrio/makefile",
+		"/home/nastya/Рабочий стол/My_files/Другие программы/Прога Дани/lab_12_03_01/libarrsort/makefile",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/inc/list_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/Makefile",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/unit_tests/check_sort.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/src/list_work.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/src/main.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/unit_tests/check_sort_insert.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/unit_tests/check_pop_front.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/unit_tests/check_pop_back.c",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/inc/struct_work.h",
+		"/home/nastya/Рабочий стол/University/3 semester/Cprog/iu7-cprog-labs-2020-borenkoanastasia/lab_10_1_1/src/struct_work.c"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 137.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h",
+			"My"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"my"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Mission/src/missionMain.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Mission/src/DownloadPoints.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1075,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1075,
+								1075
+							]
+						],
+						"settings":
+						{
+							"auto_name": "D",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Mission/src/ListWork.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Interface/src/main.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Mission/inc/ListWork.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Mission/src/MyVector.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1177,
+								1177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "Mission/inc/DownloadPoints.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "TemplateInteraction.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1146,
+								1146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 855.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Mission/inc/ShapePoint.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Mission/inc/MyVector.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.604137155513,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.3":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.4":
+	{
+		"height": 0.0
+	},
+	"output.CppYCM.6":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 257.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/qt.sublime-build",
+	"project": "v1.sublime-project",
+	"replace":
+	{
+		"height": 97.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src/matrix.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 695.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 528.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,3 @@
+#ifndef CONSTITERATOR_HPP
+#define CONSTITERATOR_HPP
+#endif

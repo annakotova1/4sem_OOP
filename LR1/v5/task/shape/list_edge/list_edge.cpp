@@ -54,12 +54,23 @@ int delete_list_edge(list_edge_node_t **head)
     return OK;
 }
 
-int apply_for_each_edge(list_edge_node_t **head, int (*func)(edge_t))
+
+int apply_for_each_edge(list_edge_node_t *head, int (*func)(edge_t))
 {
     int rc = OK;
-    for (list_edge_node_t *cur = *head; cur && (rc == OK); cur = cur->next)
+    for (list_edge_node_t *cur = head; cur && rc == OK; cur = cur->next)
     {
         rc = func(cur->data);
+    }
+    return rc;
+}
+
+int apply_for_each_edge(list_edge_node_t *head, list_point_node_t *points, const command_settings_t &settings, int (*func)(edge_t,  list_point_node_t *, const command_settings_t &))
+{
+    int rc = OK;
+    for (list_edge_node_t *cur = head; cur && (rc == OK); cur = cur->next)
+    {
+        rc = func(cur->data, points, settings);
     }
     return rc;
 }
@@ -91,6 +102,8 @@ int download_list_edge(list_edge_node_t **head, FILE *file)
     }
     if (rc == END_READ)
         rc = OK;
+    else 
+        delete_list_edge(head);
     return rc;
 }
 
@@ -102,16 +115,19 @@ int find_edge_dots(dot_t &p1, dot_t &p2, list_point_node_t *points, const edge_t
     return rc;
 }
 
-int draw_list_edge(list_edge_node_t *head, list_point_node_t *points, const command_settings_t &settings)
+int draw_edge_node(edge_t edge, list_point_node_t *points, const command_settings_t &settings)
 {
     dot_t p1, p2;
+    int rc = find_edge_dots(p1, p2, points, edge);
+    if (rc == OK)
+        rc = draw_edge(p1, p2, settings);
+    return rc;
+}
+
+int draw_list_edge(list_edge_node_t *head, list_point_node_t *points, const command_settings_t &settings)
+{
     int rc = OK;
-    for (list_edge_node_t *cur = head; cur && rc == OK; cur = cur->next)
-    {
-        find_edge_dots(p1, p2, points, cur->data);
-        if (rc == OK)
-            rc = draw_edge(p1, p2, settings);
-    }
+    apply_for_each_edge(head, points, settings, draw_edge_node);
     return rc;
 }
 
